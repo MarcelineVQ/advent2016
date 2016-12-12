@@ -1,6 +1,5 @@
 module Day3 where
 
--- data Tri = Tri Int Int Int
 import Data.List
 
 type Tri = [Int]
